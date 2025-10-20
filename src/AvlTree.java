@@ -1,19 +1,9 @@
-// AvlTree class
-//
-// CONSTRUCTION: with no initializer
-//
-// ******************PUBLIC OPERATIONS*********************
-// void insert( x )       --> Insert x
-// void remove( x )       --> Remove x (unimplemented)
-// boolean contains( x )  --> Return true if x is present
-// boolean remove( x )    --> Return true if x was present
-// Comparable findMin( )  --> Return smallest item
-// Comparable findMax( )  --> Return largest item
-// boolean isEmpty( )     --> Return true if empty; else false
-// void makeEmpty( )      --> Remove all items
-// void printTree( )      --> Print tree in sorted order
-// ******************ERRORS********************************
-// Throws UnderflowException as appropriate
+/**
+ * @file: AvlTree.java
+ * @description: Defines an AVL tree class that keeps the tree balanced with insert, remove, and search operations.
+ * @author: Chris Cha {@literal <chah22@wfu.edu>}
+ * @date: October 19, 2025
+ */
 
 /**
  * Implements an AVL tree.

@@ -1,3 +1,9 @@
+/**
+ * @file: Proj2.java
+ * @description: Runs performance tests comparing BST and AVL trees using sorted and randomized datasets.
+ * @author: Chris Cha {@literal <chah22@wfu.edu>}
+ * @date: October 19, 2025
+ */
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
